@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xinshui123.github.io</id>
-    <title>Komorebi</title>
-    <updated>2020-07-29T13:36:49.463Z</updated>
+    <title>Komorebiの博客小站</title>
+    <updated>2020-07-29T14:38:15.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xinshui123.github.io"/>
     <link rel="self" href="https://xinshui123.github.io/atom.xml"/>
-    <subtitle>MYYYYYY BLOGGER~!</subtitle>
+    <subtitle>虽千万人，吾往矣。</subtitle>
     <logo>https://xinshui123.github.io/images/avatar.png</logo>
     <icon>https://xinshui123.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Komorebi</rights>
+    <rights>All rights reserved 2020, Komorebiの博客小站</rights>
     <entry>
         <title type="html"><![CDATA[致Kyoani的一封信]]></title>
         <id>https://xinshui123.github.io/post/zhi-kyoani-de-yi-feng-xin/</id>
